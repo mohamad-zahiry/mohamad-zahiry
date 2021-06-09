@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohamadzahiri
+- 👋 Hi, I’m @soheylzahiry
 - 👀 I’m interested in Python, Linux, Servers, Network Protocols, Docker
 - 🌱 I’m currently learning CEH and C++
 - 💞️ I’m looking to collaborate on Python project, PyQt, API implementation
