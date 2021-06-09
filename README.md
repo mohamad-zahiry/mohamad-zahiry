@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Linux, Servers, Network Protocols, Docker
 - 🌱 I’m currently learning CEH and C++
 - 💞️ I’m looking to collaborate on Python project, PyQt, API implementation
-- 📫 How to reach me soheylzhairy@gmail.com
+- 📫 How to reach me soheylzahiry@gmail.com
 
 <!---
 soheylzahiry/soheylzahiry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
