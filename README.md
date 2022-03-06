@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @soheylzahiry
 - 👀 I’m interested in Python, Linux, Servers, Network Protocols, Docker, APIs
-<!---
-- 🌱 I’m currently learning CEH and C++
---->
 - 💞️ I’m looking to collaborate on Python project, PyQt, API implementation
 - 📫 How to reach me soheylzahiry@gmail.com
 
