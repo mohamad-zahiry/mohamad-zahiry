@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Mohamad Zahri, a **Full Stack End Web Developer** (specializing in **React JS** & **Django**). I am also Pursuing my Bachelor in **Computer Engineering** and will graduate in mid-2024.
+🎓 I am Mohamad Zahiri, a **Full Stack End Web Developer** (specializing in **React JS** & **Django**). I am also Pursuing my Bachelor in **Computer Engineering** and will graduate in mid-2024.
 👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology.
 
 📚 I also love reading books on **Personal Development** & **Psychological Fiction**. My favorite ones are **The Subtle Art of Not Giving a F*ck** by _Mark Manson_ in the genre of personal development and **When Nietzsche Wept** by _Irvin D. Yalom_ in the genre of psychological fiction.
